@@ -1,0 +1,119 @@
+ProductID,ProductName,ProductPrice,CategoryID,CategoryName,DepartmentID,DepartmentName,ProductStatus,ABC_Class
+1360,Smart watch ,327.75,73,Sporting Goods,2,Fitness,0,C
+365,Perfect Fitness Perfect Rip Deck,59.99000168,17,Cleats,4,Apparel,0,A
+627,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,29,Shop By Sport,5,Golf,0,B
+502,Nike Men's Dri-FIT Victory Golf Polo,50.0,24,Women's Apparel,5,Golf,0,A
+278,Under Armour Men's Compression EV SL Slide,44.99000168,13,Electronics,3,Footwear,0,C
+249,Under Armour Women's Micro G Skulpt Running S,54.97000122,12,Boxing & MMA,3,Footwear,0,C
+191,Nike Men's Free 5.0+ Running Shoe,99.98999786,9,Cardio Equipment,3,Footwear,0,A
+917,Glove It Women's Mod Oval 3-Zip Carry All Gol,21.98999977,41,Trade-In,6,Outdoors,0,C
+828,Bridgestone e6 Straight Distance NFL San Dieg,31.98999977,37,Electronics,6,Outdoors,0,C
+642,Columbia Men's PFG Anchor Tough T-Shirt,30.0,29,Shop By Sport,5,Golf,0,C
+818,Titleist Pro V1x Golf Balls,47.99000168,37,Electronics,6,Outdoors,0,C
+825,Bridgestone e6 Straight Distance NFL Tennesse,31.98999977,37,Electronics,6,Outdoors,0,C
+306,Polar FT4 Heart Rate Monitor,89.98999786,38,Kids' Golf Clubs,6,Outdoors,0,C
+977,ENO Atlas Hammock Straps,29.98999977,44,Hunting & Shooting,7,Fan Shop,0,C
+44,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99000168,3,Baseball & Softball,2,Fitness,0,C
+251,Brooks Women's Ghost 6 Running Shoe,89.98999786,12,Boxing & MMA,3,Footwear,0,C
+403,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,18,Men's Footwear,4,Apparel,0,B
+957,Diamondback Women's Serene Classic Comfort Bi,299.980011,43,Camping & Hiking,7,Fan Shop,0,A
+1352,Industrial consumer electronics,252.8800049,65,Consumer Electronics,10,Technology,0,C
+1349,Web Camera,452.0400085,62,Cameras ,10,Technology,0,C
+1351,Dell Laptop,1500.0,64,Computers,10,Technology,0,B
+60,SOLE E25 Elliptical,999.9899902,4,Basketball,2,Fitness,0,C
+24,Elevation Training Mask 2.0,79.98999786,2,Soccer,2,Fitness,0,C
+567,adidas Men's Germany Black Crest Away Tee,25.0,26,Girls' Apparel,5,Golf,0,C
+893,Team Golf Pittsburgh Steelers Putter Grip,24.98999977,40,Accessories,6,Outdoors,0,C
+924,Glove It Urban Brick Golf Towel,15.98999977,41,Trade-In,6,Outdoors,0,C
+905,Team Golf Texas Longhorns Putter Grip,24.98999977,40,Accessories,6,Outdoors,0,C
+564,Nike Men's Deutschland Weltmeister Winners Bl,30.0,26,Girls' Apparel,5,Golf,0,C
+885,Team Golf St. Louis Cardinals Putter Grip,24.98999977,40,Accessories,6,Outdoors,0,C
+1363,Summer dresses,215.8200073,76,Women's Clothing,4,Apparel,0,C
+1353,Porcelain crafts,461.480011,66,Crafts,4,Apparel,0,C
+1357,Men's gala suit,210.8500061,70,Men's Clothing,4,Apparel,0,C
+906,Team Golf Tennessee Volunteers Putter Grip,24.98999977,40,Accessories,6,Outdoors,0,C
+886,Team Golf San Francisco Giants Putter Grip,24.98999977,40,Accessories,6,Outdoors,0,C
+926,Glove It Imperial Golf Towel,15.98999977,41,Trade-In,6,Outdoors,0,C
+116,Nike Men's Comfort 2 Slide,44.99000168,6,Tennis & Racquet,2,Fitness,0,C
+235,Under Armour Hustle Storm Medium Duffle Bag,34.99000168,11,Fitness Accessories,3,Footwear,0,C
+273,Under Armour Kids' Mercenary Slide,27.98999977,13,Electronics,3,Footwear,0,C
+282,Under Armour Women's Ignite PIP VI Slide,31.98999977,13,Electronics,3,Footwear,0,C
+359,Nike Men's Free TR 5.0 TB Training Shoe,99.98999786,16,As Seen on  TV!,3,Footwear,0,C
+565,adidas Youth Germany Black/Red Away Match Soc,70.0,26,Girls' Apparel,5,Golf,0,C
+572,TYR Boys' Team Digi Jammer,39.99000168,26,Girls' Apparel,5,Golf,0,C
+804,Glove It Women's Imperial Golf Glove,19.98999977,36,Golf Balls,6,Outdoors,0,C
+822,Titleist Pro V1x High Numbers Golf Balls,47.99000168,37,Electronics,6,Outdoors,0,C
+835,Bridgestone e6 Straight Distance NFL Carolina,31.98999977,37,Electronics,6,Outdoors,0,C
+276,Under Armour Women's Ignite Slide,31.98999977,13,Electronics,3,Footwear,0,C
+823,Titleist Pro V1x High Numbers Personalized Go,51.99000168,37,Electronics,6,Outdoors,0,C
+203,GoPro HERO3+ Black Edition Camera,399.9899902,10,Strength Training,3,Footwear,0,C
+364,Total Gym 1400,299.9899902,17,Cleats,4,Apparel,0,C
+1350,Children's heaters,357.1000061,63,Children's Clothing,4,Apparel,0,C
+897,Team Golf New England Patriots Putter Grip,24.98999977,40,Accessories,6,Outdoors,0,C
+37,adidas Kids' F5 Messi FG Soccer Cleat,34.99000168,3,Baseball & Softball,2,Fitness,0,C
+172,Nike Women's Tempo Shorts,30.0,9,Cardio Equipment,3,Footwear,0,C
+810,Glove It Women's Mod Oval Golf Glove,19.98999977,36,Golf Balls,6,Outdoors,0,C
+821,Titleist Pro V1 High Numbers Personalized Gol,51.99000168,37,Electronics,6,Outdoors,0,C
+93,Under Armour Men's Tech II T-Shirt,24.98999977,5,Lacrosse,2,Fitness,0,C
+1347,Baby sweater,59.08000183,60,Baby ,4,Apparel,0,C
+305,Mio ALPHA Heart Rate Monitor/Sport Watch,199.0,38,Kids' Golf Clubs,6,Outdoors,0,C
+1004,Field & Stream Sportsman 16 Gun Fire Safe,399.980011,45,Fishing,7,Fan Shop,0,A
+1346,Sports Books ,31.07999992,59,Books ,8,Book Shop,0,C
+58,Diamondback Boys' Insight 24 Performance Hybr,299.9899902,4,Basketball,2,Fitness,0,C
+311,Polar Loop Activity Tracker,109.9499969,38,Kids' Golf Clubs,6,Outdoors,0,C
+303,Garmin Forerunner 910XT GPS Watch,399.9899902,38,Kids' Golf Clubs,6,Outdoors,0,C
+1354,DVDs ,164.3800049,67,DVDs,9,Discs Shop,0,C
+1348,CDs of rock,11.28999996,61,CDs ,9,Discs Shop,0,C
+78,Nike Kids' Grade School KD VI Basketball Shoe,99.98999786,5,Lacrosse,2,Fitness,0,C
+258,Nike Women's Free 5.0 TR FIT PRT 4 Training S,94.98999786,12,Boxing & MMA,3,Footwear,0,C
+797,Hirzl Women's Soffft Flex Golf Glove,17.98999977,36,Golf Balls,6,Outdoors,0,C
+981,The North Face Women's Recon Backpack,99.0,44,Hunting & Shooting,7,Fan Shop,0,C
+1355,Lawn mower,532.5800171,68,Garden,6,Outdoors,0,C
+135,Nike Dri-FIT Crew Sock 6 Pack,22.0,7,Hockey,2,Fitness,0,C
+134,Nike Women's Legend V-Neck T-Shirt,25.0,7,Hockey,2,Fitness,0,C
+845,Garmin Approach S4 Golf GPS Watch,299.9899902,38,Kids' Golf Clubs,6,Outdoors,0,C
+982,insta-bed Neverflat Air Mattress,149.9900055,44,Hunting & Shooting,7,Fan Shop,0,C
+625,Nike Men's Kobe IX Elite Low Basketball Shoe,199.9900055,29,Shop By Sport,5,Golf,0,C
+1359,Adult dog supplies,84.40000153,72,Pet Supplies,11,Pet Shop,0,C
+1356,First aid kit,293.0400085,69,Health and Beauty,12,Health and Beauty ,0,C
+607,Garmin Approach S3 Golf GPS Watch,249.9900055,41,Trade-In,6,Outdoors,0,C
+1358,Rock music,260.6499939,71,Music,9,Discs Shop,0,C
+1362,Fighting video games,39.75,75,Video Games,9,Discs Shop,0,C
+295,Fitbit The One Wireless Activity & Sleep Trac,99.94999695,38,Kids' Golf Clubs,6,Outdoors,0,C
+127,Stiga Master Series ST3100 Competition Indoor,329.9899902,7,Hockey,2,Fitness,0,C
+61,Diamondback Girls' Clarity 24 Hybrid Bike 201,299.9899902,4,Basketball,2,Fitness,0,C
+35,adidas Brazuca 2014 Official Match Ball,159.9900055,3,Baseball & Softball,2,Fitness,0,C
+858,GolfBuddy VT3 GPS Watch,199.9900055,38,Kids' Golf Clubs,6,Outdoors,0,C
+860,Bushnell Pro X7 Jolt Slope Rangefinder,599.9899902,38,Kids' Golf Clubs,6,Outdoors,0,C
+216,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,189.0,10,Strength Training,3,Footwear,0,C
+19,Nike Men's Fingertrap Max Training Shoe,124.9899979,2,Soccer,2,Fitness,0,C
+226,Bowflex SelectTech 1090 Dumbbells,599.9899902,11,Fitness Accessories,3,Footwear,0,C
+208,SOLE E35 Elliptical,1999.98999,10,Strength Training,3,Footwear,0,C
+793,Hirzl Women's Hybrid Golf Glove,14.98999977,36,Golf Balls,6,Outdoors,0,C
+792,Hirzl Men's Hybrid Golf Glove,14.98999977,36,Golf Balls,6,Outdoors,0,C
+786,TaylorMade 2014 Purelite Stand Bag,179.9900055,35,Golf Gloves,6,Outdoors,0,C
+778,Bag Boy Beverage Holder,24.98999977,35,Golf Gloves,6,Outdoors,0,C
+777,Bag Boy M330 Push Cart,79.98999786,35,Golf Gloves,6,Outdoors,0,C
+775,Clicgear 8.0 Shoe Brush,9.989999771,35,Golf Gloves,6,Outdoors,0,C
+773,Titleist Small Wheeled Travel Cover,249.9900055,35,Golf Gloves,6,Outdoors,0,C
+771,Clicgear Rovic Cooler Bag,39.99000168,35,Golf Gloves,6,Outdoors,0,C
+768,Titleist Club Glove Travel Cover,299.9899902,35,Golf Gloves,6,Outdoors,0,C
+743,Ogio Race Golf Shoes,169.9900055,34,Golf Bags & Carts,6,Outdoors,0,C
+730,LIJA Women's Argyle Golf Polo,80.0,33,Golf Shoes,6,Outdoors,0,C
+728,LIJA Women's Eyelet Sleeveless Golf Polo,65.0,33,Golf Shoes,6,Outdoors,0,C
+725,LIJA Women's Button Golf Dress,108.0,33,Golf Shoes,6,Outdoors,0,C
+724,LIJA Women's Mid-Length Panel Golf Shorts,100.0,33,Golf Shoes,6,Outdoors,0,C
+715,TaylorMade Women's RBZ SL Rescue,129.9900055,32,Golf Apparel,6,Outdoors,0,C
+705,Cleveland Golf Women's 588 RTX CB Satin Chrom,119.9899979,32,Golf Apparel,6,Outdoors,0,C
+703,Top Flite Women's 2014 XL Hybrid,19.98999977,32,Golf Apparel,6,Outdoors,0,C
+691,MDGolf Pittsburgh Penguins Putter,79.98999786,31,Women's Golf Clubs,6,Outdoors,0,C
+677,TaylorMade White Smoke IN-12 Putter,99.98999786,31,Women's Golf Clubs,6,Outdoors,0,C
+671,Cleveland Golf Collegiate My Custom Wedge 588,209.9900055,31,Women's Golf Clubs,6,Outdoors,0,C
+666,Merrell Men's All Out Flash Trail Running Sho,109.9899979,30,Men's Golf Clubs,6,Outdoors,0,C
+652,Merrell Women's Grassbow Sport Waterproof Hik,129.9900055,30,Men's Golf Clubs,6,Outdoors,0,C
+647,Merrell Women's Siren Mid Waterproof Hiking B,134.9900055,30,Men's Golf Clubs,6,Outdoors,0,C
+646,Merrell Women's Grassbow Sport Hiking Shoe,99.98999786,30,Men's Golf Clubs,6,Outdoors,0,C
+1361,Toys ,11.53999996,74,Toys,7,Fan Shop,0,C
+1073,Pelican Sunstream 100 Kayak,199.9900055,48,Water Sports,7,Fan Shop,0,A
+1059,Pelican Maverick 100X Kayak,349.9899902,48,Water Sports,7,Fan Shop,0,C
+1014,O'Brien Men's Neoprene Life Vest,49.97999954,46,Indoor/Outdoor Games,7,Fan Shop,0,B
